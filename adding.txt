@@ -3,4 +3,9 @@ second line
 git remote 
 git practice
 new line
+<<<<<<< HEAD
 adding a line
+=======
+new
+newlinesecond
+>>>>>>> 9f66c9f98f34dbeb498fac930089aa4984a8a2a8
